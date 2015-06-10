@@ -5,4 +5,5 @@
 		<li>Cement</li>
 		<li>Battery</li>
 		<li>Wood</li>
+		<li>Tiles</li>
 </html>
