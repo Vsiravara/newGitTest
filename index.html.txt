@@ -4,10 +4,7 @@
 		<li>More Mortar</li>
 		<li>Cement</li>
 		<li>Battery</li>
-<<<<<<< HEAD
 		<li>Woody</li>
-=======
 		<li>Wood</li>
 		<li>Tiles</li>
->>>>>>> 05b6c2e451141f105f845d8a9b2a2d48df049a0d
 </html>
